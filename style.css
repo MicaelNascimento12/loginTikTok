@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: white;
+}
+
+.imagemLogo {
+    background-color: beige;
+}
+
+.botao {
+    height: 30px;
+    width: 100px;
+    background-color: rgb(177, 82, 82);
+    border: 0;
+    font-size: 15px;
+    color: rgb(red, green, blue);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+}
